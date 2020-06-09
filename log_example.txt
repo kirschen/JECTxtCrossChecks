@@ -1,0 +1,78 @@
+Error in <TGClient::TGClient>: can't open display "localhost:42.0", switching to batch mode...
+ In case you run from a remote ssh session, reconnect with ssh -Y
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.19; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.18; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.17; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.16; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.15; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.14; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.13; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.12; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.11; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.10; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.09; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.08; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.06; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.05; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.04; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.03; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.02; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.01; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -5.00; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -4.99; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -4.98; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -4.97; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -4.96; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -4.95; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -4.94; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -4.93; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -4.92; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -4.91; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -4.90; from   20.2 to   27.2, corr. changes rapidly from   1.77 to   2.38 by   33.90%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -1.21; from  1196.0 to  1610.1, corr. changes rapidly from   1.09 to   1.43 by   31.51%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -1.20; from  1196.0 to  1610.1, corr. changes rapidly from   1.09 to   1.43 by   31.51%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -1.19; from  1196.0 to  1610.1, corr. changes rapidly from   1.09 to   1.43 by   31.51%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -1.18; from  1196.0 to  1610.1, corr. changes rapidly from   1.09 to   1.43 by   31.51%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -1.17; from  1196.0 to  1610.1, corr. changes rapidly from   1.09 to   1.43 by   31.51%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -1.16; from  1196.0 to  1610.1, corr. changes rapidly from   1.09 to   1.43 by   31.51%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -1.15; from  1196.0 to  1610.1, corr. changes rapidly from   1.09 to   1.43 by   31.51%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:  -1.14; from  1196.0 to  1610.1, corr. changes rapidly from   1.09 to   1.43 by   31.51%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   4.90; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   4.91; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   4.92; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   4.93; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   4.94; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   4.95; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   4.96; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   4.97; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   4.98; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   4.99; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.00; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.01; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.02; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.03; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.04; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.05; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.06; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.08; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.09; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.10; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.11; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.12; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.13; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.14; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.15; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.16; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.17; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.18; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+WARNING (only once per eta-bin) for textFiles/Fall17_17Nov2017_V22_MC/Fall17_17Nov2017_V22_MC_L2Relative_AK4PFchs.txt: eta:   5.19; from   25.4 to   34.2, corr. changes rapidly from   1.65 to   2.15 by   30.05%
+1000
+Info in <TCanvas::Print>: png file plotJECForEtaScan_AK4PFchs_Fall17V22.png has been created
+Info in <TCanvas::Print>: pdf file plotJECForEtaScan_AK4PFchs_Fall17V22.pdf has been created
+Info in <TCanvas::SaveAs>: ROOT file plotJECForEtaScan_AK4PFchs_Fall17V22.root has been created
+Info in <TCanvas::Print>: png file plotJECForEtaScan_AK4PFchs_Fall17V23.png has been created
+Info in <TCanvas::Print>: pdf file plotJECForEtaScan_AK4PFchs_Fall17V23.pdf has been created
+Info in <TCanvas::SaveAs>: ROOT file plotJECForEtaScan_AK4PFchs_Fall17V23.root has been created
+Info in <TCanvas::Print>: png file plotJECForEtaScan_AK4PFchs_Fall17V22_AK4PFchs_Fall17V23.png has been created
+Info in <TCanvas::Print>: pdf file plotJECForEtaScan_AK4PFchs_Fall17V22_AK4PFchs_Fall17V23.pdf has been created
+Info in <TCanvas::SaveAs>: ROOT file plotJECForEtaScan_AK4PFchs_Fall17V22_AK4PFchs_Fall17V23.root has been created
